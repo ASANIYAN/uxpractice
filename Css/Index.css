@@ -1,0 +1,56 @@
+#adopt  {
+    background: #99CACD;
+    box-shadow: 0px 0px 50px rgba(0, 0, 0, 0.1);
+    border-radius: 20px;
+}
+
+#charity    {
+    background: #CC99CD;
+    box-shadow: 0px 0px 50px rgba(0, 0, 0, 0.1);
+    border-radius: 20px;
+}
+
+#vet    {
+    background: #A6CD99;
+    box-shadow: 0px 0px 50px rgba(0, 0, 0, 0.1);
+    border-radius: 20px;
+}
+
+#client {
+    height: 100px;
+    border-radius: 50%;
+}
+
+#name   {
+    font-weight: bold;
+}
+
+.faq    {
+    width: 50vw; 
+    margin-left: 150px;
+}
+
+.fa-chevron-left    {
+    color: #ACACAC;
+}
+
+.fa-chevron-right    {
+    color: #ACACAC;
+}
+
+.fa-facebook-f  {
+    color: #4C4C4C;
+}
+
+.fa-twitter  {
+    color: #4C4C4C;
+}
+
+.fa-instagram  {
+    color: #4C4C4C;
+}
+
+.fa-paw    {
+    width: 200px;
+    height: 100px;
+}
